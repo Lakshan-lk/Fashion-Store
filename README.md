@@ -32,3 +32,9 @@ Backend: PHP
 Database: (e.g., MySQL – if applicable)
 
 🎓 This project was developed as part of academic coursework and focuses heavily on admin panel design, category management, and elegant UI/UX for both users and administrators.
+
+📧 Contact
+
+Created with ❤️ by Lakshan Ekanayaka Feel free to connect on www.linkedin.com/in/lakshan-ekanayaka
+
+or email me at lakshanekanayakam20@gmail.com
