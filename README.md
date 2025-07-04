@@ -11,7 +11,7 @@ Belleza is a stylish and fully functional Fashion Store website developed as par
 
 📂 Category Pages – Visually appealing layout with product sorting and filtering.
 
-ℹ️ About Page – Stylish page detailing the brand story and purpose.
+ℹ️ About Page – Stylish page detailing the brand story and purpose
 
 🔧 Admin Panel Features
 📦 Product Management – Add, update, and delete product listings.
